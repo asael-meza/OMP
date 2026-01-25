@@ -35,7 +35,7 @@ int main()
     shared(a, b, c, pedazos) private(i) \
     schedule(static, pedazos)
 
-    // Este ciclo se ejecuta en paralelo según la configuración anterior
+    // Este ciclo se ejecuta en paralelo según la configuración anterior.
     for (i = 0; i < N; i++)
     {
         c[i] = a[i] + b[i];
