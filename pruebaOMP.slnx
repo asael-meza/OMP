@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pruebaOMP.vcxproj" Id="8174e1a3-714b-4b12-809b-0401a08d65f2" />
+</Solution>
